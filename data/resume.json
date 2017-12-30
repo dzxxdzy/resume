@@ -1,91 +1,91 @@
 {
-    "avatar": "/resume/data/1.jpg",
+    "avatar": "/resume/data/xx.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "唐杰英",
-        "description": "岂能尽如人意，但求无愧我心",
-        "school": "五邑大学",
-        "profession": "计算机科学与技术",
+        "name": "lansong",
+        "description": "用技术去生存，用艺术去生活",
+        "school": "广西野鸡大学",
+        "profession": "电子信息工程",
         "sex": "男",
         "education" : "本科",
-        "workage": "2016届毕业",
-        "phone": "15088132354",
-        "email": "tonjayin@gmail.com"
+        "workage": "2018届毕业",
+        "phone": "180****4479",
+        "email": "dzxxdzy@gmail.com"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/dzxxdzy",
             "icon": ""
         },
         {
             "type": "weibo",
-            "link": "http://weibo.com/tjy273942569",
+            "link": "http://weibo.com/南蛮牲士_",
             "icon": ""
         },
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/pub/jayin-ton/100/85a/161",
+            "link": "https://www.dzxxdzy.com/pub/song/",
             "icon": ""
         },
         {
             "type": "twitter",
-            "link": "https://twitter.com/Jayin_Ton",
+            "link": "https://twitter.com/Song_lion",
             "icon": ""
         },
         {
             "type": "home",
-            "link": "http://jayinton.com",
+            "link": "http://dzxxdzy.com",
             "icon": ""
         }
     ],
     "Awards": [
         {
-            "name": "五邑大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
+            "name": "广西野鸡大学第一美男子"
         },
         {
-            "name": "第四届蓝桥杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
+            "name": "少女倾城勾唇笑，入了谁家少年眸"
         },
         {
-            "name": "第六届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
+            "name": "吾何日能及君之秀"
         },
         {
-            "name": "2013百度校园助手大赛优秀开发奖"
+            "name": "汝之秀，吾恐终身无法望项背"
         },
         {
-            "name": "2013华南资讯杯广东省Java程序员竞赛三等奖"
+            "name": "浮生若梦，为欢几何"
         }
     ],
     "socialExperiences": [
         {
-            "name": "加入袂卓移动开发工作室",
+            "name": "成功化身死肥宅",
             "name_link": "meizhuo.org",
-            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，东莞培训中心App，轻会议等多款产品"
+            "description": "大四入坑前端，从入门到放弃，上GitHub fork(抄袭) 作品"
         },
         {
-            "name": "组织3次校内开发者交流会",
-            "name_link": "http://wuyiuniversity.github.io/",
-            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
+            "name": "组织3次老乡酒友交流会",
+            "name_link": "http://liuzhou.github.io/",
+            "description": "受化国奇女子启发，也地处三线城市喝酒氛围不浓厚，所以自行组织了3次交流会"
         }
     ],
     "InternExperiences": [
         {
-            "name": "深圳三分线网络科技有限公司",
+            "name": "柳州老乡码王争取活动项目",
             "name_link": "",
-            "title": "前端开发工程师",
+            "title": "品酒攻城狮",
             "icon": "",
             "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
-            "time": "2015.04 - 2015.09",
-            "location": "广东 深圳"
+            "time": "2017.11 - 2017.12",
+            "location": "广西 柳州"
         },
         {
-            "name": "深圳百贝斯网络科技有限公司",
+            "name": "广西野鸡大学第一美男子自发项目",
             "name_link": "",
-            "title": "PHP开发工程师",
+            "title": "端茶倒水开发攻城狮",
             "icon": "",
-            "description": "基于开源商城系统OpenCart二次开发一外贸商城",
-            "time": "2014.07 - 2014.08",
-            "location": "广东 江门"
+            "description": "高仿饿了么app",
+            "time": "2017.07 - 2017.08",
+            "location": "广西 柳州"
         }
     ],
     "ProjectExperience": [
@@ -94,31 +94,31 @@
             "name_link": "http://etips.github.io/",
             "title": "Android App, 作者",
             "icon": "",
-            "description": "五邑大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
-            "time": "2013.07 - 至今",
+            "description": "广西野鸡大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
+            "time": "2017.10 - 至今",
             "location": ""
         },
         {
-            "name": "东莞技能培训中心",
+            "name": "南一栋602舍长粪发涂墙",
             "name_link": "",
-            "title": "Android App/PHP后端, 项目负责人",
+            "title": "node.js后端, 项目负责人",
             "icon": "",
-            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
-            "time": "2014.08 - 2014.12",
+            "description": "主要负责node.js后端，采用koa2框架实现一个后端基础搭建",
+            "time": "2017.10 - 2017.11",
             "location": ""
         },
         {
             "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
+            "name_link": "https://github.com/xxxx/silentor",
             "title": "JavaScript, forker",
             "icon": "",
             "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
+            "time": "2017.10 - 至今",
             "location": ""
         },
         {
             "name": "更多",
-            "name_link": "https://github.com/Jayin/jayin.github.io/blob/master/blog/p/projects/index.md",
+            "name_link": "https://github.com/xxxx/xxxxx.github.io/blob/master/blog/p/projects/index.md",
             "title": "",
             "icon": "",
             "description": "",
