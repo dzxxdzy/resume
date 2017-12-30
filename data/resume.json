@@ -30,7 +30,7 @@
         },
         {
             "type": "twitter",
-            "link": "https://twitter.com/Song_lion",
+            "link": "https://twitter.com/dzxxdzy",
             "icon": ""
         },
         {
@@ -59,7 +59,7 @@
     "socialExperiences": [
         {
             "name": "成功化身死肥宅",
-            "name_link": "meizhuo.org",
+            "name_link": "www.smzdm.com",
             "description": "大四入坑前端，从入门到放弃，上GitHub fork(抄袭) 作品"
         },
         {
@@ -91,8 +91,8 @@
     "ProjectExperience": [
         {
             "name": "ETips",
-            "name_link": "http://etips.github.io/",
-            "title": "Android App, 作者",
+            "name_link": "http://dzxxdzy.github.io/",
+            "title": "web App, 作者",
             "icon": "",
             "description": "广西野鸡大学校园助手，2一键导入足浴/泰式服务、收藏/及时获取校园女大学生生活资讯/查水表/电费, 已为7+K同学服务",
             "time": "2017.10 - 至今",
@@ -118,7 +118,7 @@
         },
         {
             "name": "更多",
-            "name_link": "https://github.com/xxxx/xxxxx.github.io/blob/master/blog/p/projects/index.md",
+            "name_link": "https://www.baidu.com",
             "title": "",
             "icon": "",
             "description": "",
