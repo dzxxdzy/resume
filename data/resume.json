@@ -20,7 +20,7 @@
         },
         {
             "type": "weibo",
-            "link": "https://weibo.com/u/3285455447",
+            "link": "https://weibo.com/juzisong",
             "icon": ""
         },
         {
@@ -35,7 +35,7 @@
         },
         {
             "type": "home",
-            "link": "www.yourman.com",
+            "link": "www.juzisong.com",
             "icon": ""
         }
     ],
@@ -59,7 +59,7 @@
     "socialExperiences": [
         {
             "name": "游戏宅完美转身",
-            "name_link": "www.yourman.com",
+            "name_link": "www.juzisong.com",
             "description": "入坑前端，从入门到放弃，上GitHub fork(抄袭) 作品"
         },
         {
@@ -71,7 +71,7 @@
     "InternExperiences": [
         {
             "name": "柳州老乡码王争霸赛活动项目",
-            "name_link": "www.yourman.com",
+            "name_link": "www.juzisong.com",
             "title": "品酒狮",
             "icon": "",
             "description": "负责微信html5创意广告微信网页开发，参与柳州品酒创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
