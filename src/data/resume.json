@@ -1,0 +1,129 @@
+{
+    "avatar": "/src/data/avatar.jpg",
+    "background_image": "http://img-cdn2.luoo.net/site/201601/56976e2e536fe.jpg",
+    "basicinfo": {
+        "name": "lansong",
+        "description": "用技术去生存，用艺术去生活",
+        "school": "广西野鸡大学",
+        "profession": "电子信息工程",
+        "sex": "男",
+        "education": "本科",
+        "workage": "2018届毕业",
+        "phone": "16620490821",
+        "email": "dzxxdzy@gmail.com"
+    },
+    "social": [
+        {
+            "type": "github",
+            "link": "https://github.com/dzxxdzy",
+            "icon": ""
+        },
+        {
+            "type": "weibo",
+            "link": "https://weibo.com/juzisong",
+            "icon": ""
+        },
+        {
+            "type": "linkedin",
+            "link": "www.yourman.com/resume/build/",
+            "icon": ""
+        },
+        {
+            "type": "twitter",
+            "link": "https://twitter.com/dzxxdzy",
+            "icon": ""
+        },
+        {
+            "type": "home",
+            "link": "www.juzisong.com",
+            "icon": ""
+        }
+    ],
+    "Awards": [
+        {
+            "name": "广西野鸡大学第一美男子"
+        },
+        {
+            "name": "少女倾城勾唇笑，入了谁家少年眸"
+        },
+        {
+            "name": "从此放下离愁，生生世世酒敬自由。"
+        },
+        {
+            "name": "汝之秀，吾恐终身无法企及"
+        },
+        {
+            "name": "浮生若梦，为欢几何"
+        }
+    ],
+    "socialExperiences": [
+        {
+            "name": "游戏宅完美转身",
+            "name_link": "www.juzisong.com",
+            "description": "入坑前端，从入门到放弃，上GitHub fork(抄袭) 作品"
+        },
+        {
+            "name": "组织3次老乡酒友交流会",
+            "name_link": "www.yourman.com",
+            "description": "受化国奇女子启发，也地处三线城市喝酒氛围不浓厚，所以自行组织了3次交流会"
+        }
+    ],
+    "InternExperiences": [
+        {
+            "name": "柳州老乡码王争霸赛活动项目",
+            "name_link": "www.juzisong.com",
+            "title": "品酒狮",
+            "icon": "",
+            "description": "负责微信html5创意广告微信网页开发，参与柳州品酒创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
+            "time": "2017.11 - 2017.12",
+            "location": "广西 柳州"
+        },
+        {
+            "name": "广西野鸡大学第一美男子自发项目",
+            "name_link": "",
+            "title": "端茶倒水扫地攻城狮",
+            "icon": "",
+            "description": "高仿豆瓣一刻app",
+            "time": "2017.07 - 2017.08",
+            "location": "广西 柳州"
+        }
+    ],
+    "ProjectExperience": [
+        {
+            "name": "ETips",
+            "name_link": "http://dzxxdzy.github.io/",
+            "title": "web App, 作者",
+            "icon": "",
+            "description": "广西野鸡大学校园助手，2一键导入足浴/泰式服务、收藏/及时获取校园女大学生生活资讯/查水表/电费, 已为7+K同学服务",
+            "time": "2017.10 - 至今",
+            "location": ""
+        },
+        {
+            "name": "南一栋602舍长粪发涂墙",
+            "name_link": "",
+            "title": "node.js后端, 项目负责人",
+            "icon": "",
+            "description": "主要负责node.js后端，采用koa2框架实现一个后端基础搭建",
+            "time": "2017.10 - 2017.11",
+            "location": ""
+        },
+        {
+            "name": "silentor",
+            "name_link": "https://github.com/xxxx/silentor",
+            "title": "JavaScript, forker",
+            "icon": "",
+            "description": "纯前端，基于markdown的博客",
+            "time": "2017.10 - 至今",
+            "location": ""
+        },
+        {
+            "name": "更多",
+            "name_link": "https://www.baidu.com",
+            "title": "",
+            "icon": "",
+            "description": "",
+            "time": "",
+            "location": ""
+        }
+    ]
+}
