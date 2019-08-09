@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/src/static/css/main.1ce79564.chunk.css",
-    "main.js": "/src/static/js/main.7e6056d4.chunk.js",
-    "main.js.map": "/src/static/js/main.7e6056d4.chunk.js.map",
-    "runtime~main.js": "/src/static/js/runtime~main.e7ecc13d.js",
-    "runtime~main.js.map": "/src/static/js/runtime~main.e7ecc13d.js.map",
-    "static/js/2.3b045009.chunk.js": "/src/static/js/2.3b045009.chunk.js",
-    "static/js/2.3b045009.chunk.js.map": "/src/static/js/2.3b045009.chunk.js.map",
-    "index.html": "/src/index.html",
-    "precache-manifest.f279b6c48e7f6f3791e9dbef99574f45.js": "/src/precache-manifest.f279b6c48e7f6f3791e9dbef99574f45.js",
-    "service-worker.js": "/src/service-worker.js",
-    "static/css/main.1ce79564.chunk.css.map": "/src/static/css/main.1ce79564.chunk.css.map",
-    "static/media/App.css": "/src/static/media/Zocial.5cdf883b.ttf",
-    "static/media/avatar.jpg": "/src/static/media/avatar.2be5add7.jpg"
+    "main.css": "/resume/build/src/static/css/main.4a5a4c52.chunk.css",
+    "main.js": "/resume/build/src/static/js/main.c33b2f60.chunk.js",
+    "main.js.map": "/resume/build/src/static/js/main.c33b2f60.chunk.js.map",
+    "runtime~main.js": "/resume/build/src/static/js/runtime~main.359ccdab.js",
+    "runtime~main.js.map": "/resume/build/src/static/js/runtime~main.359ccdab.js.map",
+    "static/js/2.3b045009.chunk.js": "/resume/build/src/static/js/2.3b045009.chunk.js",
+    "static/js/2.3b045009.chunk.js.map": "/resume/build/src/static/js/2.3b045009.chunk.js.map",
+    "index.html": "/resume/build/src/index.html",
+    "precache-manifest.d85e2f42f954f9d1b794806b6e169eae.js": "/resume/build/src/precache-manifest.d85e2f42f954f9d1b794806b6e169eae.js",
+    "service-worker.js": "/resume/build/src/service-worker.js",
+    "static/css/main.4a5a4c52.chunk.css.map": "/resume/build/src/static/css/main.4a5a4c52.chunk.css.map",
+    "static/media/App.css": "/resume/build/src/static/media/Zocial.5cdf883b.ttf",
+    "static/media/avatar.jpg": "/resume/build/src/static/media/avatar.2be5add7.jpg"
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/src/",
+  "homepage": "https://dzxxdzy.github.io/resume/build/src/",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.5.5",
